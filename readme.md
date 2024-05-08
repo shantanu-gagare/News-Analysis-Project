@@ -1,7 +1,10 @@
-# News Article Processing Pipeline
+# News Article Project
 
 ## Overview
 This Python script automates the process of sentiment analysis, summarization, and thematic categorization of news articles. Utilizing Natural Language Processing (NLP) techniques, the pipeline provides insights into the sentiment and themes prevalent in news articles.
+
+## Objective
+The objective of the News Analysis Project is to develop a comprehensive system capable of enhancing the comprehension and summarization of news articles through advanced natural language processing (NLP). The system aims to provide valuable insights into the emotional tone and thematic connections across various articles, thereby aiding stakeholders in making informed decisions based on current news trends.
 
 
 ## Setup
@@ -37,3 +40,4 @@ After execution, the script will generate an Excel file named `final_processed_a
 
 ## Troubleshooting
 If you encounter issues, ensure all libraries are installed correctly and that both model and vectorizer files are accessible by the script. Also, verify the format of the input Excel file as described in the Input Data Preparation section.
+
