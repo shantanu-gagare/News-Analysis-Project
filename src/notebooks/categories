@@ -1,0 +1,535 @@
+News Categories,count
+['entertainment'],11021
+['miscellaneous'],10545
+['science'],8901
+['national'],7552
+['politics'],7473
+"['entertainment', 'fashion']",7042
+"['politics', 'national']",6977
+['business'],6967
+['sports'],6939
+"['automobile', 'business']",6913
+"['business', 'startup', 'technology']",6724
+"['education', 'national']",6095
+['world'],6019
+['technology'],5043
+['startup'],4650
+"['national', 'travel']",4551
+['Health___Fitness'],4040
+['education'],3961
+"['business', 'technology']",3710
+"['science', 'Health___Fitness']",3574
+"['world', 'national']",3384
+['fashion'],3187
+"['business', 'startup']",3166
+"['sports', 'ODI_World_Cup_2023']",2908
+['travel'],2905
+"['national', 'Health___Fitness']",2369
+"['world', 'Israel-Hamas_War']",2326
+"['startup', 'technology']",2077
+"['automobile', 'technology']",1852
+"['world', 'science']",1360
+"['world', 'travel']",1354
+"['business', 'national']",1267
+"['world', 'Health___Fitness']",1254
+"['sports', 'Asian_Games_2022']",1205
+"['ODI_World_Cup_2023', 'sports']",1177
+['automobile'],1101
+"['entertainment', 'national']",1075
+"['science', 'national']",987
+"['automobile', 'business', 'technology']",903
+"['science', 'technology']",895
+"['automobile', 'business', 'startup']",870
+"['Health___Fitness', 'national']",826
+"['world', 'business']",798
+"['national', 'technology']",766
+"['business', 'travel']",739
+"['automobile', 'national']",694
+"['startup', 'science']",631
+"['business', 'startup', 'technology', 'fashion']",612
+"['world', 'technology']",587
+"['miscellaneous', 'travel']",533
+"['world', 'fashion']",512
+"['world', 'education']",472
+"['world', 'entertainment']",456
+"['sports', 'entertainment']",448
+"['world', 'Russia-Ukraine_Conflict']",437
+"['business', 'fashion']",430
+"['automobile', 'startup']",429
+"['education', 'world']",396
+"['miscellaneous', 'national']",395
+"['politics', 'education', 'national']",374
+"['education', 'business']",360
+"['politics', 'miscellaneous', 'national']",355
+"['sports', 'national']",346
+"['politics', 'world']",314
+"['automobile', 'business', 'startup', 'technology']",307
+"['business', 'startup', 'science', 'technology']",306
+"['Feel_Good_Stories', 'travel']",300
+"['hatke', 'travel']",293
+"['business', 'national', 'travel']",288
+"['world', 'education', 'national']",281
+"['cryptocurrency', 'business', 'technology']",266
+"['education', 'business', 'startup']",265
+"['world', 'national', 'travel']",259
+"['Health___Fitness', 'technology']",258
+"['world', 'miscellaneous']",250
+"['technology', 'travel']",243
+"['education', 'world', 'national']",238
+"['world', 'business', 'travel']",223
+"['politics', 'national', 'technology']",216
+"['world', 'national', 'Israel-Hamas_War']",215
+"['automobile', 'business', 'national']",202
+"['hatke', 'miscellaneous']",201
+"['business', 'entertainment']",197
+"['business', 'Health___Fitness']",196
+"['education', 'business', 'startup', 'technology']",196
+"['politics', 'world', 'national']",195
+"['startup', 'national']",194
+"['miscellaneous', 'Health___Fitness']",187
+"['national', 'fashion']",183
+"['startup', 'Health___Fitness']",179
+"['world', 'science', 'Health___Fitness']",179
+"['business', 'startup', 'national']",177
+"['miscellaneous', 'entertainment']",176
+"['science', 'Health___Fitness', 'technology']",174
+"['world', 'sports']",173
+"['politics', 'entertainment']",172
+"['sports', 'fashion']",170
+"['world', 'entertainment', 'fashion']",169
+"['automobile', 'business', 'technology', 'travel']",157
+"['Feel_Good_Stories', 'miscellaneous']",154
+"['politics', 'education', 'miscellaneous', 'national']",153
+"['entertainment', 'Health___Fitness']",152
+"['startup', 'technology', 'fashion']",144
+"['Coronavirus', 'national', 'Health___Fitness']",143
+"['entertainment', 'technology']",142
+"['Feel_Good_Stories', 'miscellaneous', 'travel']",140
+"['politics', 'business', 'national']",139
+"['sports', 'Asia_Cup_2023']",138
+"['world', 'business', 'startup', 'technology']",130
+"['world', 'Coronavirus', 'Health___Fitness']",127
+"['business', 'national', 'technology']",124
+"['world', 'entertainment', 'travel']",123
+"['business', 'startup', 'fashion']",122
+"['startup', 'science', 'technology']",122
+"['hatke', 'fashion']",120
+"['world', 'entertainment', 'national']",119
+"['technology', 'fashion']",119
+"['Health___Fitness', 'Lifestyle']",118
+"['world', 'entertainment', 'Israel-Hamas_War']",118
+"['politics', 'entertainment', 'national']",116
+"['world', 'technology', 'Israel-Hamas_War']",116
+"['Feel_Good_Stories', 'world', 'travel']",115
+"['education', 'startup']",110
+"['miscellaneous', 'entertainment', 'fashion']",106
+"['business', 'science', 'technology']",105
+"['world', 'business', 'national']",102
+"['politics', 'sports']",101
+"['business', 'startup', 'travel']",100
+"['sports', 'ODI_World_Cup_2023', 'entertainment']",100
+"['world', 'business', 'technology']",98
+"['automobile', 'business', 'startup', 'technology', 'travel']",97
+"['hatke', 'national', 'travel']",97
+"['politics', 'miscellaneous']",95
+"['startup', 'fashion']",91
+"['politics', 'technology']",88
+"['sports', 'technology']",87
+"['science', 'national', 'technology']",84
+"['education', 'technology']",84
+"['politics', 'national', 'Health___Fitness']",84
+"['hatke', 'education', 'fashion']",82
+"['miscellaneous', 'technology']",81
+"['business', 'startup', 'technology', 'travel']",81
+"['Feel_Good_Stories', 'Health___Fitness', 'travel']",80
+"['politics', 'world', 'national', 'Israel-Hamas_War']",79
+"['hatke', 'world']",79
+"['business', 'startup', 'Health___Fitness']",79
+"['world', 'national', 'Health___Fitness']",78
+"['miscellaneous', 'national', 'technology']",77
+"['hatke', 'sports']",73
+"['automobile', 'sports']",73
+"['politics', 'miscellaneous', 'education', 'national']",72
+"['Lifestyle', 'Health___Fitness']",71
+"['Feel_Good_Stories', 'business', 'travel']",71
+"['automobile', 'technology', 'Israel-Hamas_War']",71
+"['politics', 'Israel-Hamas_War']",69
+"['business', 'science']",66
+"['automobile', 'startup', 'technology']",66
+"['entertainment', 'startup', 'national']",66
+"['Coronavirus', 'national', 'travel']",65
+"['hatke', 'miscellaneous', 'travel']",64
+"['miscellaneous', 'Lifestyle']",63
+"['miscellaneous', 'fashion']",63
+"['hatke', 'business', 'fashion']",63
+"['politics', 'sports', 'national']",61
+"['world', 'Coronavirus', 'science', 'Health___Fitness']",61
+"['education', 'miscellaneous', 'national']",60
+"['Feel_Good_Stories', 'hatke', 'fashion']",60
+"['business', 'entertainment', 'national']",59
+"['business', 'Health___Fitness', 'national']",59
+"['automobile', 'entertainment']",58
+"['education', 'startup', 'national']",58
+"['politics', 'business', 'startup', 'technology']",57
+"['business', 'entertainment', 'startup', 'technology']",57
+"['politics', 'education', 'miscellaneous', 'sports', 'business', 'entertainment', 'technology', 'automobile', 'Feel_Good_Stories', 'hatke', 'world', 'science', 'national']",57
+"['sports', 'national', 'travel']",56
+"['startup', 'national', 'travel']",56
+"['world', 'business', 'Israel-Hamas_War']",54
+"['education', 'travel']",54
+"['Feel_Good_Stories', 'hatke', 'miscellaneous', 'travel']",53
+"['world', 'Israel-Hamas_War', 'fashion']",53
+"['world', 'science', 'technology']",53
+"['miscellaneous', 'sports']",53
+"['education', 'miscellaneous', 'business', 'national']",53
+"['sports', 'ODI_World_Cup_2023', 'national']",52
+"['Coronavirus', 'Health___Fitness']",50
+"['Feel_Good_Stories', 'hatke', 'miscellaneous']",50
+"['automobile', 'world']",49
+"['education', 'miscellaneous', 'science', 'Health___Fitness']",49
+"['politics', 'Health___Fitness']",48
+"['automobile', 'world', 'business']",48
+"['business', 'startup', 'Health___Fitness', 'technology']",47
+"['world', 'business', 'travel', 'fashion']",46
+"['business', 'sports']",46
+"['Feel_Good_Stories', 'national', 'travel']",46
+"['automobile', 'technology', 'travel']",46
+"['politics', 'business']",46
+"['automobile', 'business', 'sports']",46
+"['world', 'startup', 'technology']",45
+"['Feel_Good_Stories', 'hatke', 'education', 'miscellaneous', 'national', 'travel']",44
+"['hatke', 'miscellaneous', 'national']",43
+"['miscellaneous', 'entertainment', 'travel']",43
+"['world', 'business', 'Health___Fitness']",43
+"['hatke', 'education', 'national', 'fashion']",43
+"['education', 'world', 'business', 'Israel-Hamas_War']",42
+"['business', 'startup', 'science']",42
+"['Feel_Good_Stories', 'miscellaneous', 'fashion']",41
+"['entertainment', 'Health___Fitness', 'fashion']",41
+"['hatke', 'technology']",40
+"['world', 'business', 'fashion']",40
+"['entertainment', 'startup']",40
+"['automobile', 'science', 'technology']",40
+"['politics', 'sports', 'ODI_World_Cup_2023']",40
+"['education', 'science', 'national']",40
+"['miscellaneous', 'national', 'technology', 'fashion']",40
+"['world', 'miscellaneous', 'Israel-Hamas_War']",40
+"['education', 'business', 'travel']",40
+"['world', 'education', 'business', 'Israel-Hamas_War']",40
+"['business', 'science', 'fashion']",39
+"['politics', 'hatke', 'education', 'national', 'travel']",39
+"['hatke', 'world', 'miscellaneous']",39
+"['politics', 'education']",39
+"['all', 'myfeed', 'sports']",39
+"['education', 'national', 'Health___Fitness']",38
+"['Feel_Good_Stories', 'world']",38
+"['technology', 'Israel-Hamas_War']",37
+"['world', 'national', 'technology']",37
+"['world', 'Coronavirus', 'travel']",37
+"['world', 'miscellaneous', 'education', 'national']",36
+"['Feel_Good_Stories', 'education', 'Health___Fitness']",36
+"['politics', 'world', 'business', 'fashion']",36
+"['Feel_Good_Stories', 'Health___Fitness']",35
+"['world', 'business', 'startup']",35
+"['automobile', 'Feel_Good_Stories', 'hatke', 'national']",35
+"['miscellaneous', 'business']",35
+"['miscellaneous', 'business', 'startup', 'national']",34
+"['sports', 'travel']",34
+"['education', 'miscellaneous', 'business', 'startup']",34
+"['world', 'science', 'national']",34
+"['Feel_Good_Stories', 'startup']",34
+"['automobile', 'politics', 'national', 'technology']",34
+"['education', 'miscellaneous', 'travel']",34
+"['Feel_Good_Stories', 'fashion']",33
+"['entertainment', 'national', 'technology']",33
+"['sports', 'entertainment', 'travel']",33
+"['politics', 'hatke', 'education', 'miscellaneous', 'national']",33
+"['hatke', 'national', 'fashion']",33
+"['Feel_Good_Stories', 'sports', 'Health___Fitness', 'national', 'travel']",32
+"['education', 'miscellaneous']",32
+"['automobile', 'world', 'technology']",32
+"['education', 'business', 'technology']",32
+"['miscellaneous', 'education', 'national']",31
+"['Feel_Good_Stories', 'sports', 'travel']",31
+"['politics', 'world', 'fashion']",31
+"['business', 'entertainment', 'startup', 'national']",31
+"['politics', 'Health___Fitness', 'national']",30
+"['Asia_Cup_2023', 'sports']",30
+"['Feel_Good_Stories', 'miscellaneous', 'entertainment', 'travel']",30
+"['hatke', 'miscellaneous', 'entertainment', 'national', 'travel']",29
+"['all', 'myfeed', 'education']",29
+"['world', 'sports', 'national']",29
+"['cryptocurrency', 'technology']",29
+"['Feel_Good_Stories', 'education', 'entertainment', 'travel']",29
+"['politics', 'world', 'education', 'miscellaneous', 'business', 'entertainment', 'science', 'national', 'technology']",28
+"['Feel_Good_Stories', 'education', 'travel']",28
+"['Feel_Good_Stories', 'hatke', 'education', 'world', 'science', 'Health___Fitness', 'national']",28
+"['business', 'sports', 'technology']",28
+"['startup', 'travel']",28
+"['Health___Fitness', 'travel']",27
+"['sports', 'entertainment', 'technology']",27
+"['education', 'science', 'national', 'technology']",27
+"['miscellaneous', 'world']",27
+"['miscellaneous', 'business', 'startup']",27
+"['metaverse', 'education', 'technology']",27
+"['sports', 'Health___Fitness']",27
+"['business', 'national', 'Health___Fitness']",27
+"['world', 'entertainment', 'Health___Fitness']",27
+"['sports', 'startup']",26
+"['politics', 'national', 'travel']",26
+"['business', 'national', 'Health___Fitness', 'travel']",26
+"['business', 'national', 'fashion']",26
+"['sports', 'science']",25
+"['Feel_Good_Stories', 'education']",25
+"['Feel_Good_Stories', 'hatke', 'national', 'travel']",25
+"['Feel_Good_Stories', 'hatke', 'world', 'fashion']",25
+"['Health___Fitness', 'fashion']",25
+"['hatke', 'entertainment', 'national', 'travel']",24
+"['politics', 'education', 'national', 'Health___Fitness']",24
+"['world', 'Coronavirus']",24
+"['Feel_Good_Stories', 'world', 'science']",24
+"['Feel_Good_Stories', 'Health___Fitness', 'national']",24
+"['national', 'technology', 'travel']",24
+"['miscellaneous', 'science']",24
+"['hatke', 'entertainment', 'national']",24
+"['world', 'entertainment', 'technology']",23
+"['world', 'startup', 'science', 'technology']",23
+"['hatke', 'national']",23
+"['education', 'startup', 'technology']",23
+"['Feel_Good_Stories', 'politics', 'hatke', 'education', 'miscellaneous', 'national']",23
+"['hatke', 'education', 'science', 'national', 'technology']",23
+"['world', 'business', 'technology', 'Israel-Hamas_War']",22
+"['sports', 'Australian_Open_2024']",22
+"['politics', 'education', 'miscellaneous', 'world']",22
+"['Feel_Good_Stories', 'hatke', 'travel']",22
+"['politics', 'world', 'education', 'science', 'national', 'technology']",22
+"['startup', 'technology', 'policy']",22
+"['Feel_Good_Stories', 'science']",22
+"['all', 'myfeed', 'sports', 'national']",21
+"['Coronavirus', 'national']",21
+"['sports', 'business', 'national']",21
+"['business', 'startup', 'technology', 'facts']",21
+"['sports', 'business']",21
+"['politics', 'education', 'world', 'technology']",21
+"['world', 'miscellaneous', 'education']",20
+"['world', 'science', 'national', 'Health___Fitness']",20
+"['world', 'miscellaneous', 'national', 'technology']",20
+"['world', 'education', 'science', 'Health___Fitness']",20
+"['education', 'world', 'miscellaneous']",19
+"['education', 'business', 'national']",19
+"['startup', 'Health___Fitness', 'technology']",19
+"['entertainment', 'travel']",19
+"['business', 'ODI_World_Cup_2023', 'startup']",19
+"['world', 'miscellaneous', 'science', 'national']",19
+"['world', 'startup']",18
+"['miscellaneous', 'Lifestyle', 'Health___Fitness']",18
+"['Lifestyle', 'fashion']",18
+"['Feel_Good_Stories', 'world', 'miscellaneous', 'technology']",18
+"['Feel_Good_Stories', 'sports']",18
+"['hatke', 'world', 'national']",18
+"['politics', 'education', 'miscellaneous', 'world', 'national', 'Russia-Ukraine_Conflict', 'Israel-Hamas_War']",18
+"['miscellaneous', 'world', 'science']",17
+"['Feel_Good_Stories', 'miscellaneous', 'world', 'science']",17
+"['automobile', 'world', 'business', 'national']",17
+"['sports', 'facts']",17
+"['Feel_Good_Stories', 'miscellaneous', 'entertainment']",17
+"['world', 'miscellaneous', 'ODI_World_Cup_2023', 'sports', 'national']",17
+"['politics', 'hatke', 'national']",17
+"['business', 'sports', 'startup', 'technology']",17
+"['entertainment', 'startup', 'technology']",17
+"['entertainment', 'startup', 'technology', 'policy']",17
+"['automobile', 'miscellaneous']",16
+"['business', 'startup', 'national', 'technology']",16
+"['world', 'Health___Fitness', 'national']",16
+"['business', 'entertainment', 'startup', 'technology', 'policy']",16
+"['business', 'entertainment', 'technology']",16
+"['Feel_Good_Stories', 'miscellaneous', 'national']",16
+"['world', 'Russia-Ukraine_Conflict', 'Israel-Hamas_War']",16
+"['Feel_Good_Stories', 'hatke', 'education', 'national']",15
+"['Feel_Good_Stories', 'business']",15
+"['Feel_Good_Stories', 'entertainment']",15
+"['politics', 'world', 'Israel-Hamas_War']",15
+"['world', 'miscellaneous', 'science', 'national', 'technology']",15
+"['politics', 'Feel_Good_Stories', 'education', 'miscellaneous', 'national']",15
+"['hatke', 'miscellaneous', 'entertainment']",15
+"['Feel_Good_Stories', 'world', 'miscellaneous']",15
+"['ODI_World_Cup_2023', 'sports', 'startup']",15
+"['miscellaneous', 'education']",15
+"['sports', 'business', 'Health___Fitness']",15
+"['politics', 'miscellaneous', 'Health___Fitness', 'national']",15
+"['world', 'miscellaneous', 'technology', 'Israel-Hamas_War']",15
+"['world', 'business', 'Health___Fitness', 'national']",14
+"['politics', 'miscellaneous', 'science', 'national']",14
+"['miscellaneous', 'startup']",14
+"['Feel_Good_Stories', 'hatke', 'education', 'business', 'entertainment', 'national']",14
+"['sports', 'Asia_Cup_2023', 'entertainment']",14
+"['startup', 'national', 'Health___Fitness']",14
+"['hatke', 'world', 'national', 'Health___Fitness']",13
+"['world', 'science', 'Health___Fitness', 'national']",13
+"['world', 'miscellaneous', 'national']",13
+"['world', 'education', 'miscellaneous']",13
+"['world', 'business', 'national', 'technology']",13
+"['Feel_Good_Stories', 'hatke', 'world', 'miscellaneous', 'business', 'national']",13
+"['education', 'miscellaneous', 'world', 'national']",13
+"['sports', 'business', 'startup', 'technology']",13
+"['national', 'Health___Fitness', 'technology']",13
+"['world', 'education', 'entertainment', 'technology']",13
+"['world', 'sports', 'Israel-Hamas_War']",13
+"['entertainment', 'Israel-Hamas_War']",13
+"['ODI_World_Cup_2023', 'business', 'startup', 'technology']",12
+"['politics', 'world', 'travel']",12
+"['hatke', 'business']",12
+"['politics', 'world', 'entertainment']",12
+"['ODI_World_Cup_2023', 'sports', 'national']",12
+"['Feel_Good_Stories', 'education', 'technology']",12
+"['education', 'world', 'national', 'technology']",12
+"['world', 'Health___Fitness', 'national', 'technology']",12
+"['education', 'miscellaneous', 'entertainment', 'science', 'national', 'technology']",12
+"['hatke', 'miscellaneous', 'world']",12
+"['business', 'sports', 'ODI_World_Cup_2023']",12
+"['Feel_Good_Stories', 'hatke', 'entertainment']",12
+"['sports', 'technology', 'Asian_Games_2022']",12
+"['politics', 'miscellaneous', 'business', 'startup', 'national']",12
+"['world', 'miscellaneous', 'business']",12
+"['education', 'science', 'technology']",12
+"['world', 'miscellaneous', 'entertainment']",12
+"['business', 'entertainment', 'startup']",11
+"['world', 'science', 'national', 'technology']",11
+"['politics', 'education', 'world', 'national']",11
+"['business', 'technology', 'Israel-Hamas_War']",11
+"['hatke', 'miscellaneous', 'entertainment', 'national']",11
+"['politics', 'world', 'business', 'Israel-Hamas_War']",11
+"['business', 'Israel-Hamas_War']",11
+"['hatke', 'miscellaneous', 'Health___Fitness']",11
+"['sports', 'science', 'Health___Fitness']",11
+"['politics', 'startup']",10
+"['politics', 'hatke', 'education', 'national']",10
+"['sports', 'national', 'Asian_Games_2022']",10
+"['sports', 'business', 'ODI_World_Cup_2023']",10
+"['business', 'startup', 'technology', 'policy']",10
+"['politics', 'world', 'education', 'national']",10
+"['Feel_Good_Stories', 'miscellaneous', 'business', 'Health___Fitness']",10
+"['education', 'business', 'national', 'technology']",10
+"['cryptocurrency', 'business']",10
+"['Feel_Good_Stories', 'national']",10
+"['hatke', 'national', 'Health___Fitness']",10
+"['Feel_Good_Stories', 'politics', 'education', 'entertainment', 'national']",10
+"['business', 'entertainment', 'technology', 'policy']",10
+"['entertainment', 'science']",10
+"['politics', 'world', 'education']",9
+"['education', 'world', 'Israel-Hamas_War']",9
+"['politics', 'sports', 'Asia_Cup_2023']",9
+"['hatke', 'world', 'entertainment']",9
+"['hatke', 'education', 'national']",9
+"['Lifestyle', 'travel']",9
+"['politics', 'miscellaneous', 'entertainment']",9
+"['sports', 'entertainment', 'national']",9
+"['miscellaneous', 'world', 'technology']",9
+"['world', 'miscellaneous', 'Health___Fitness']",9
+"['hatke', 'world', 'technology']",9
+"['Feel_Good_Stories', 'miscellaneous', 'Health___Fitness']",9
+"['miscellaneous', 'world', 'Health___Fitness']",8
+"['startup', 'national', 'policy']",8
+"['Feel_Good_Stories', 'business', 'startup']",8
+"['business', 'sports', 'national']",8
+"['ODI_World_Cup_2023', 'entertainment']",8
+"['Feel_Good_Stories', 'Lifestyle', 'national', 'travel']",8
+"['world', 'sports', 'entertainment']",8
+"['metaverse', 'business', 'technology']",8
+"['cryptocurrency', 'business', 'national', 'technology']",8
+"['hatke', 'miscellaneous', 'national', 'technology']",8
+"['education', 'Health___Fitness']",8
+"['world', 'Lifestyle', 'fashion']",8
+"['world', 'sports', 'ODI_World_Cup_2023', 'national']",8
+"['sports', 'business', 'technology']",8
+"['hatke', 'entertainment', 'technology']",8
+"['hatke', 'national', 'technology']",8
+"['Feel_Good_Stories', 'sports', 'technology']",8
+"['Feel_Good_Stories', 'hatke', 'world']",7
+"['politics', 'ODI_World_Cup_2023']",7
+"['hatke', 'Health___Fitness', 'national']",7
+"['miscellaneous', 'national', 'Health___Fitness']",7
+"['politics', 'sports', 'Asian_Games_2022']",7
+"['automobile', 'business', 'Lifestyle']",7
+"['national', 'Lifestyle']",7
+"['ODI_World_Cup_2023', 'sports', 'entertainment']",7
+"['politics', 'national', 'Israel-Hamas_War']",7
+"['Feel_Good_Stories', 'hatke', 'entertainment', 'national']",7
+"['world', 'national', 'Russia-Ukraine_Conflict']",7
+"['Health___Fitness', 'Lifestyle', 'national']",6
+"['politics', 'hatke', 'miscellaneous']",6
+"['ODI_World_Cup_2023', 'sports', 'technology']",6
+"['world', 'business', 'entertainment']",6
+"['hatke', 'entertainment', 'Health___Fitness', 'national']",6
+"['world', 'sports', 'ODI_World_Cup_2023', 'Israel-Hamas_War']",6
+"['sports', 'ODI_World_Cup_2023', 'technology']",6
+"['Coronavirus', 'science', 'Health___Fitness']",6
+"['science', 'Health___Fitness', 'Lifestyle']",6
+"['Lifestyle', 'technology']",6
+"['Feel_Good_Stories', 'entertainment', 'national']",6
+"['ODI_World_Cup_2023', 'startup']",6
+"['Feel_Good_Stories', 'hatke', 'world', 'national']",6
+"['Feel_Good_Stories', 'politics', 'education', 'miscellaneous', 'national']",6
+"['world', 'education', 'business']",6
+"['Feel_Good_Stories', 'hatke', 'miscellaneous', 'entertainment']",5
+"['politics', 'world', 'entertainment', 'national']",5
+"['Feel_Good_Stories', 'hatke', 'national']",5
+"['hatke', 'miscellaneous', 'business', 'national']",5
+"['miscellaneous', 'science', 'national', 'Health___Fitness']",5
+"['Feel_Good_Stories', 'hatke', 'world', 'travel']",5
+"['politics', 'world', 'sports']",5
+"['all', 'myfeed', 'sports', 'Asian_Games_2022']",5
+"['world', 'Lifestyle', 'national']",4
+"['ODI_World_Cup_2023', 'national']",4
+"['world', 'miscellaneous', 'technology']",4
+"['miscellaneous', 'ODI_World_Cup_2023', 'sports', 'national']",4
+"['entertainment', 'Lifestyle', 'fashion']",4
+"['hatke', 'sports', 'national']",4
+"['sports', 'ODI_World_Cup_2023', 'Israel-Hamas_War']",4
+"['startup', 'Lifestyle']",4
+"['ODI_World_Cup_2023', 'sports', 'business']",4
+"['politics', 'national', 'facts']",4
+"['world', 'miscellaneous', 'sports', 'ODI_World_Cup_2023']",4
+"['hatke', 'entertainment']",4
+"['miscellaneous', 'ODI_World_Cup_2023']",4
+"['sports', 'Israel-Hamas_War']",4
+"['education', 'world', 'business']",3
+"['sports', 'ODI_World_Cup_2023', 'national', 'Hockey_World_Cup_2023']",3
+"['Feel_Good_Stories', 'world', 'national']",3
+"['politics', 'science', 'national']",3
+"['Feel_Good_Stories', 'hatke', 'world', 'national', 'travel']",3
+"['hatke', 'miscellaneous', 'business']",3
+"['startup', 'Israel-Hamas_War']",3
+"['politics', 'hatke']",3
+"['world', 'Lifestyle', 'Health___Fitness']",3
+"['Union_Budget_2024', 'business']",3
+"['metaverse', 'national']",3
+"['Feel_Good_Stories', 'business', 'entertainment']",3
+"['Feel_Good_Stories', 'hatke', 'business', 'national']",3
+"['Feel_Good_Stories', 'sports', 'entertainment']",3
+"['business', 'Lifestyle']",2
+"['entertainment', 'Lifestyle']",2
+"['hatke', 'science']",2
+"['business', 'startup', 'Lifestyle']",2
+"['world', 'sports', 'ODI_World_Cup_2023']",2
+"['politics', 'ODI_World_Cup_2023', 'sports']",2
+"['Feel_Good_Stories', 'business', 'national']",2
+"['sports', 'ODI_World_Cup_2023', 'Asian_Games_2022']",2
+"['Health___Fitness', 'Lifestyle', 'technology']",2
+"['world', 'business', 'Russia-Ukraine_Conflict']",2
+"['cryptocurrency', 'world', 'Russia-Ukraine_Conflict']",2
+"['cryptocurrency', 'world']",2
+"['Feel_Good_Stories', 'hatke', 'education', 'miscellaneous', 'entertainment', 'national', 'travel', 'fashion']",1
+"['Feel_Good_Stories', 'politics', 'hatke', 'education', 'miscellaneous', 'entertainment', 'national', 'travel']",1
+"['all', 'metaverse', 'sports']",1
+"['Feel_Good_Stories', 'sports', 'national']",1
+"['myfeed', 'sports', 'Asian_Games_2022']",1
+"['national', 'Hockey_World_Cup_2023']",1
+"['all', 'sports']",1
+"['all', 'sports', 'Asian_Games_2022']",1
+"['miscellaneous', 'entertainment', 'Lifestyle']",1
+"['cryptocurrency', 'world', 'business']",1
+"['Feel_Good_Stories', 'hatke', 'national', 'Health___Fitness']",1
+"['hatke', 'world', 'Lifestyle']",1
+"['Feel_Good_Stories', 'politics', 'education', 'business', 'startup', 'Lifestyle']",1
+"['politics', 'education', 'world']",1
